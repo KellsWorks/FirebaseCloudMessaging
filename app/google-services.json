@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "361225559915",
+    "firebase_url": "https://cloud-messaging-1d547.firebaseio.com",
+    "project_id": "cloud-messaging-1d547",
+    "storage_bucket": "cloud-messaging-1d547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361225559915:android:db50031570e8f6800ef62e",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361225559915-1lec4fljg92ijcs30bqp8fv1hgc8umfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYm-Fb4IsGKBTDORpsVHGA7hDVVDXKWLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361225559915-1lec4fljg92ijcs30bqp8fv1hgc8umfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361225559915:android:5b916ce94861cfe50ef62e",
+        "android_client_info": {
+          "package_name": "nextgen.co.mw.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361225559915-1lec4fljg92ijcs30bqp8fv1hgc8umfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYm-Fb4IsGKBTDORpsVHGA7hDVVDXKWLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361225559915-1lec4fljg92ijcs30bqp8fv1hgc8umfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
